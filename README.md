@@ -23,5 +23,5 @@
 >* Syntax: ``` touch ``` [option(s)] file_name(s)
 >* Common options: -a, -m, -r, -d
 ---
-&nbsp;
+&nbsp; 
 ### **BONUS:** You can find more useful cmd commands [here](https://www.educative.io/blog/bash-shell-command-cheat-sheet "More CMD commands").
